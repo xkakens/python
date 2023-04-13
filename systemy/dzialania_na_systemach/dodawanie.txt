@@ -11,6 +11,12 @@ DODAWANIE DWÓJKOWE
 -------------
   1 1 0 1 1 0
 
+
+
+
+
+
+
 kolejność działań:
 
 1. z lewej:

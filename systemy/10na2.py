@@ -3,8 +3,8 @@ poczatkowaWartosc = liczba10
 wynikZDzielenia = 1
 liczba2 = ""
 while wynikZDzielenia>0:
-    liczba2 = liczba2 + str(liczba10 % 2)
-    wynikZDzielenia = int(liczba10/2)
+    liczba2 = liczba2 + str(liczba10 % 16)
+    wynikZDzielenia = int(liczba10/16)
     liczba10 = wynikZDzielenia
 
 wynik = ""

@@ -6,9 +6,8 @@ DWÓJKOWY
 --------
   10001 
 
-
 1: 0 - 1 -> wychodzi -1 wiec zamieniamy na 1 a od kolejnej kolumny odejmujemy 1
-(dopisujemy 1 w trzeciej linii)            >1 stad ze liczby w systemie 2 -> 2 + (-1) = 1
+(dopisujemy 1 w trzeciej linii)            >1 stad ze liczby w systemie 2 -> (-1) + 2 = 1
 2: 1 - 0 - 1 = 0
 3: 1 - 1 = 0
 4: 0
@@ -22,11 +21,24 @@ SZESNASTKOWY
 -   1
 ------
   A382
+
+
 1: 0 - E daje wynik -E czyli -14 wiec zamieniamy na 16 - 14 = 2
 od kolejnej odejmujemy 1
 2: C - 3 - 1 = 12 - 3 - 1 = 8
 3: 3
 4: A
+
+
+
+   AB8
+    3F
+-   1
+------
+   A79
+
+1: 8 - F = 8 - 15 = -7     16 - 7 = 9
+2: B - 3 - 1 = 11 - 3 - 1 = 7
 
 
 WZÓR OGÓLNY
